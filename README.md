@@ -16,7 +16,7 @@
    - [Pré-requisitos](#pré-requisitos)
    - [Tecnologias](#tecnologias)
    - [Instalação](#instalação)
-      - [Clone este repositório](#clone-este-repositorio)
+      - [Clone este repositório](#clone-este-repositório)
       - [Terminal](#terminal)
       - [Acessar arquivo](#acessar-arquivo)
    - [Autora](#autora)
@@ -35,7 +35,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 <p align="left"> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### 🎲 Instalação
+### Instalação
 
 
 ## Clone este repositório
