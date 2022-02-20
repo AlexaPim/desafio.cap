@@ -11,14 +11,14 @@
 ## Tabela de conteúdos
 =================
 <!--ts-->
-   - [Tópicos](#tabelade-conteudos)
-   - [Sobre](#descricao-do-projeto)
+   - [Tópicos](#topicos)
+   - [Sobre](#sobre)
    - [Pré-requisitos](#pre-requisitos)
    - [Tecnologias](#tecnologias)
    - [Instalação](#🎲instalacao)
       - [Clone este repositório](#clone-este-repositorio)
-      - [Abra o terminal CMD](#acesse-a-pasta-do-projetono-terminal/cmd)
-      - [Acessar arquivo](#va-para-a-pasta-desafio)
+      - [Abra o terminal CMD](#abra-o-terminal-cmd)
+      - [Acessar arquivo](#acessar-arquivo)
    - [Autora](#autora)
 <!--te-->
 
