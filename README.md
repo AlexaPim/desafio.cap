@@ -2,7 +2,7 @@
   <img alt="Academia Capgemini" title="#AcademiaCapgemini" src="assets/academiaCapgemini.JPG" />
 </h1>
 
-<img alt = "" title = "Status" src = "https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-green">
+<img align="center" alt = "Status do Desafio" title = "Status" src = "https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-green">
 
 
 <h1 align="center">Academia Capgemini</h1>
