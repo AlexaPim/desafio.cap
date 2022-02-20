@@ -18,14 +18,14 @@ public class Questao1 {
 
 		for (int n = 0; n < qntDegraus; n++) {
 				degraus.add(" ".repeat(qntDegraus - n) + "*".repeat(n + 1));
-		}
-		
+		}		
 
 		for (String d : degraus) {
+			
 			System.out.println(d);
 		}
 
 	}
-
+	
 
 }
