@@ -47,6 +47,9 @@ $ cd desafio.cap
 ### Acessar arquivo
 $ cd Desafio
 
+## Abrir e rodar o projeto
+<p>Após clonar o repositório, abra a plataforma que melhor se identifica e rode o projeto.</p>
+
 ## Aplicação das questões
 
 <h4>Questão 1</h4>
@@ -61,7 +64,7 @@ $ cd Desafio
 
 #### Questão 3
 <div>
-    <img src="assets/resposta1.JPG"></img>
+    <img src="assets/resposta3.JPG"></img>
 </div>
 
 ## Autora
