@@ -8,21 +8,21 @@
 
 <h1 align="center">Academia Capgemini</h1>
 
-## Tabela de conteúdos
+## Tópicos
 =================
 <!--ts-->
-   - [Tópicos](#topicos)
+   - [Tópicos](#tópicos)
    - [Sobre](#sobre)
-   - [Pré-requisitos](#pre-requisitos)
+   - [Pré-requisitos](#pré-requisitos)
    - [Tecnologias](#tecnologias)
-   - [Instalação](#🎲instalacao)
+   - [Instalação](#instalação)
       - [Clone este repositório](#clone-este-repositorio)
-      - [Abra o terminal CMD](#abra-o-terminal-cmd)
+      - [Terminal](#terminal)
       - [Acessar arquivo](#acessar-arquivo)
    - [Autora](#autora)
 <!--te-->
 
-## Descrição do Projeto
+## Sobre
 <p>Projeto para a etapa de seleção de participação da Academia Capgemini. </p>
 
 ### Pré-requisitos
@@ -41,10 +41,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ## Clone este repositório
 $ git clone <https://github.com/AlexaPim/desafio.cap>
 
-### Acesse a pasta do projeto no terminal/cmd
+### Terminal
 $ cd desafio.cap
 
-### Vá para a pasta Desafio
+### Acessar arquivo
 $ cd Desafio
 
 
