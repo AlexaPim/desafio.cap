@@ -11,15 +11,15 @@
 ## Tabela de conteúdos
 =================
 <!--ts-->
-   * [Tópicos](##tabeladeconteúdos)
-   * [Sobre](##descriçãodoProjeto)
-   * [Pré-requisitos](###pré-requisitos)
-   * [Tecnologias](###tecnologias)
-   * [Instalação](###🎲instalação)
-      * [Clone este repositório](#cloneesterepositório)
-      * [Abra o terminal CMD](#acesseapastadoprojetonoterminal/cmd)
-      * [Acessar arquivo](#váparaapastaDesafio)
-   * [Autora](###autora)
+   - [Tópicos](##tabelade-conteudos)
+   - [Sobre](##descricao-do-projeto)
+   - [Pré-requisitos](###pre-requisitos)
+   - [Tecnologias](###tecnologias)
+   - [Instalação](###🎲instalacao)
+      - [Clone este repositório](#clone-este-repositorio)
+      - [Abra o terminal CMD](#acesse-a-pasta-do-projetono-terminal/cmd)
+      - [Acessar arquivo](#va-para-a-pasta-desafio)
+   - [Autora](###autora)
 <!--te-->
 
 ## Descrição do Projeto
