@@ -17,7 +17,7 @@
    - [Tecnologias](#tecnologias)
    - [Instalação](#instalação)
       - [Clone este repositório](#clone-este-repositório)
-      - [Terminal](#terminal)
+      - [Abra o terminal](#abra-o-terminal)
       - [Acessar arquivo](#acessar-arquivo)
    - [Autora](#autora)
 <!--te-->
@@ -41,7 +41,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ### Clone este repositório
 $ git clone <https://github.com/AlexaPim/desafio.cap>
 
-### Terminal
+### Abra o terminal
 $ cd desafio.cap
 
 ### Acessar arquivo
