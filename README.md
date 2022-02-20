@@ -17,7 +17,7 @@
    - [Tecnologias](#tecnologias)
    - [Instalação](#instalação)
       - [Clone este repositório](#clone-este-repositório)
-      - [Abra o terminal](#abra-o-terminal)
+      - [Abra o terminal cmd](#abra-o-terminal-cmd)
       - [Acessar arquivo](#acessar-arquivo)
    - [Autora](#autora)
 <!--te-->
@@ -41,12 +41,28 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ### Clone este repositório
 $ git clone <https://github.com/AlexaPim/desafio.cap>
 
-### Abra o terminal
+### Abra o terminal cmd
 $ cd desafio.cap
 
 ### Acessar arquivo
 $ cd Desafio
 
+## Aplicação das questões
+
+<h4>Questão 1</h4>
+<div align="center">
+    <img src="assets/resposta1.JPG"></img>
+</div>
+
+#### Questão 2
+<div>
+    <img src="assets/resposta2.JPG"></img>
+</div>
+
+#### Questão 3
+<div>
+    <img src="assets/resposta1.JPG"></img>
+</div>
 
 ## Autora
 <a href="https://www.linkedin.com/in/alexssandra-pimentel/" target="_blank" rel="noreferrer">Contato</a>
