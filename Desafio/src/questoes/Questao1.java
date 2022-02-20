@@ -17,11 +17,7 @@ public class Questao1 {
 		qntDegraus = leia.nextInt();
 
 		for (int n = 0; n < qntDegraus; n++) {
-
 				degraus.add(" ".repeat(qntDegraus - n) + "*".repeat(n + 1));
-				if (n >= 6) {
-					qntDegraus = n +1;
-				}
 		}
 		
 
