@@ -4,7 +4,7 @@
 
 <div align="center" align-items = "center">
 <img alt = "Status do Desafio" title = "Status" src = "https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-green">
-<div>
+</div>
 
 <h1 align="center">Academia Capgemini</h1>
 
